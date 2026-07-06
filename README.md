@@ -1,6 +1,6 @@
 # WMUSIC
 
-![wmusic](https://github.com/wpxq/w-music/blob/main/preview_wmusic.png)
+![wmusic](https://github.com/wreakdev/w-music/blob/main/preview_wmusic.png)
 
 ---
 
